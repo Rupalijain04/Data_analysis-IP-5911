@@ -1,1 +1,1 @@
-# Data-analysis-IP-5911
+This is IAC's data analyst project which has problem statement containing 18 questions out of which 17 has been solved (mandatory), using PowerBI. It has Project Documentation and Demo Video too. Question level was easy to difficult and overall it was a good project.
